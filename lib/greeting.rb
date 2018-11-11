@@ -1,1 +1,1 @@
-# code the #greeting method here!
+"hello #{name} it's nice to meet you."
